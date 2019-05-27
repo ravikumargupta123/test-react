@@ -13,6 +13,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage" : "http://ravikumargupta123.github.io/test-react",
   "eslintConfig": {
     "extends": "react-app"
   },
